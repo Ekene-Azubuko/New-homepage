@@ -128,7 +128,7 @@
     }
 
      /* mobile design */
-    @media (max-width:300px){
+    @media (max-width:350px){
         body {
             padding: 15px;
         }
